@@ -1,0 +1,160 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.int-detail-container{
+    //border: 2px solid red;
+    padding: 40px;
+    font-family: Arial;
+    color: #484848;
+}
+
+h3{
+    font-size: 16px;
+}
+
+.comp-caption{
+    //border: 2px solid red;
+    text-align: center;
+    margin: auto;
+    width: 75%;
+    padding-bottom: 20px;
+}
+
+.int-details-containt{
+    margin: auto;
+    border: 1px solid #EEE;
+    border-radius: 6px;
+    padding: 23px;
+    background: #fff;
+    width: 70%;
+}
+
+.post-container .company-name{
+    font-weight: bold;
+    color: #8A8A8A;
+}
+
+.post-container li{
+    border: 2px solid red;
+    display: inline-block;
+    color: #8A8A8A;
+    font-weight: bold;
+    padding: 0 90 0 0;
+    font-size: 14px;
+    //width: 60px;
+}
+
+.post-container .li2{
+    border: 2px solid red;
+    display: inline-block;
+    color: #484848;
+    font-weight: bold;
+    padding: 0 100 0 0;
+    font-size: 15px;
+}
+
+.hr{
+    border-top: 1px solid #ddd;
+    margin-top: 2%;
+}
+
+.loc-logo{
+    width: 15px;
+}
+
+.logo-name{
+    //border: 2px solid red;
+    display: inline-block;
+    font-size: 15px;
+}
+
+.titles{
+    //border: 2px solid red;
+    margin-top: 2%;
+    font-weight: bold;
+    color: #8A8A8A;
+}
+
+.titles div{
+    //border: 2px solid green;
+    width: 13%;
+    display: inline-block;
+    margin-right: 5%;
+}
+
+.titles-content{
+    //border: 2px solid red;
+    margin-top: 1%;
+    font-weight: bold;
+    color: #484848;
+    font-size: 15px;
+}
+
+.titles-content div{
+    //border: 2px solid green;
+    width: 13%;
+    display: inline-block;
+    margin-right: 5%;
+}
+
+.int-detail-about-comp{
+    margin-top: 2%;
+}
+
+.int-detail-about-comp p{
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: bold;
+    color: #8A8A8A;
+}
+
+.int-detail-about-internship{
+    margin-top: 2%;
+}
+
+.int-detail-about-internship p{
+    font-size: 15px;
+}
+
+.int-detail-about-internship ol{
+    margin-left: 20px;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: bold;
+    color: #8A8A8A;
+}
+
+.int-detail-sub-btn{
+    //border: 2px solid red;
+    margin: auto;
+    width: 100px;
+}
+
+.int-detail-sub-btn input{
+    background-color: #008BDC;
+    border: 1px solid #008BDC;
+    color: #fff;
+    border-radius: 3px;
+    padding: 6 5 6 5;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    width: 100%;
+    height: 6%;
+}
+
+.company-img{
+    //border: 1px solid #ddd;
+    width: 70px;
+    height: 70px;
+    float: right;
+    margin-top: -50px;
+}
+
+.img-logo{
+    //border: 2px solid red;
+    width: 70px;
+    height: 70px;
+}

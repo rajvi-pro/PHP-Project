@@ -1,0 +1,14 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.emp-sub-container{
+	font-family: Arial;
+	padding: 40px;
+}
+
+h2{
+	color: #484848;
+	text-align: center;
+}

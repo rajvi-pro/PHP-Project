@@ -1,0 +1,109 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	background-size: border-box;
+}
+
+.login-form-background{
+	display: flex;
+	background-image: url('../images/login.png');
+	width: 100%;
+	background-size: cover;
+	height: 80%;
+}
+
+.login-form-overly{
+	background: rgba(0, 0, 0, 0.2);
+	width: 100%;
+	background-size: cover;
+}
+
+.login-form-style{
+	border: 1px solid #ddd; 
+    margin: 70px auto 60 auto;
+	width: 350px;
+	background: #fff;
+    border-radius: 6px;
+    padding: 10 24 10 24;
+	font-family: sans-serif;
+}
+
+.login-form-style a{
+	text-decoration: none;
+}
+
+.login-form{
+	//margin-top: 10px;
+}
+
+.login-form-text{
+	text-align: center;
+	color: #008BDC;
+}
+
+.login-form-col{
+	margin-top: 20px;
+}
+
+.login-form-label{
+	font-family: sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #484848;
+}
+
+.login-form-input{
+	margin-top: 10px;
+	width: 346px;
+	height: 38px;
+	border-radius: 3px;
+    border: 1px solid #ddd;
+	padding-left: 20px;
+	font-size: 15px;
+	color: #495057;
+}
+
+.login-form-input:hover{
+	border: 1px solid #008BDC;
+}
+
+
+.login-form-col a{
+	float: right;
+	font-family: sans-serif;
+	font-size: 15px;
+	color: #008BDC;
+	font-weight: 550;
+}
+
+.login-form-sub-btn{
+	margin-top: 10px;
+	width: 346px;
+	height: 38px;
+	border-radius: 3px;
+    border: 1px solid #ddd;
+	font-size: 15px;
+	font-weight: 550;
+	color: #fff;
+	background: #008BDC;
+	cursor: pointer;
+}
+
+.login-sub-btn-hover input:hover{
+	background: #005c99;
+}
+
+.new-to-internshop{
+	margin-top: 15px;
+}
+
+.new-to-internshop p{
+	font-size: 14px;
+	text-align: center;
+	color: #495057;
+	font-weight: 600;
+}
+
+.new-to-internshop a{
+	color: #008BDC;
+}

@@ -1,0 +1,93 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.review-container{
+    //border: 2px solid red;
+    padding: 20px;
+    font-family: Arial;
+    //height: 120%;
+    clear: both;
+    color: #484848;
+}
+
+.review-title{
+    //border: 2px solid red;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.stud-container{
+    width: 38%;
+}
+
+.stud-resume-container{
+    padding: 5px;
+    border: 1px solid #ddd;
+    width: 60%;
+    float: right;
+}
+
+.stud-profile-container{
+    padding: 5px;
+    border: 1px solid #ddd;
+    font-weight: bold;
+    font-size: 15px;
+    min-height: 200px;
+}
+
+.stud-info{
+    //border: 2px solid red;
+    width: 60%;
+    float: right;
+}
+
+.stud-info p{
+    margin: 10px;
+}
+
+.stud-img{
+    border: 1px solid #ddd;
+    float: left;
+    width: 30%;
+    height: 25%;
+    border-radius: 50%;
+}
+
+.stud-answer-container{
+    padding: 5px;
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    
+}
+
+.stud-answer-container p{
+    //border: 2px solid red;
+    
+}
+
+.resume-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    color: #008BDC;
+    margin-bottom: 5px;
+}
+
+.ques{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.ans{
+    font-size: 15px;
+    //border: 1px solid #ddd;
+}
+
+.ans-content{
+    margin-bottom: 15px;
+    //border: 1px solid #ddd;
+}

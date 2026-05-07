@@ -1,0 +1,129 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.reg-background{
+	background-image: url('../images/reg1.jpg');
+	width: 100%;
+	height: 120%;
+	background-size: cover;
+}
+
+.reg-overly{
+	background: rgba(0, 0, 0, 0.6);
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+}
+
+.sign-up-label{
+	text-align: center;
+	color: black;
+	font-family: Inter,sans-serif;
+}
+
+.sign-up-label h2{
+	color: #fff;
+	font-size: 30px;
+	line-height: 2;
+}
+
+.sign-up-label p{
+	color: #fff;
+	padding-bottom: 10px;
+}
+
+.reg-style{
+	border: 2px solid red;
+	margin: auto;
+	width: 400px;
+	background: #fff;
+    border: 1px solid #DDD;
+    border-radius: 6px;
+    padding: 24px;
+	font-family: sans-serif;
+	box-shadow: 0px 0px 10px rgba(0, 204, 255, 0.5);
+}
+
+.reg-style a{
+	text-decoration: none;
+}
+
+.r-label{
+	margin-top: 5px;
+	//border: 2px solid red;
+	font-family: sans-serif;
+	font-size: 14px;
+	font-weight: 550;
+	color: #484848;
+}
+
+.reg-input{
+	display: inlie-block;
+	margin-top: 10px;
+	width: 400px;
+	height: 38px;
+	border-radius: 3px;
+    border: 1px solid #ddd;
+	padding-left: 20px;
+	font-size: 15px;
+	color: #495057;
+}
+
+.r-input{
+	margin-top: 10px;
+}
+
+.ter-con{
+	margin-top: 20px;
+}
+
+.ter-con p{
+	font-size: 13px;
+	color: #484848;
+}
+
+.ter-con a{
+	font-family: sans-serif;
+	font-size: 13px;
+	color: #008BDC;
+	font-weight: 550;
+}
+
+.reg-sub-btn{
+	margin-top: 2px;
+	width: 400px;
+	height: 45px;
+	border-radius: 3px;
+    border: 1px solid #ddd;
+	font-size: 15px;
+	font-weight: 550;
+	color: #fff;
+	background: #008BDC;
+	cursor: pointer;
+}
+
+.reg-sub-btn-hover input:hover{
+	background: #005c99;
+}
+
+.r-new-to-internshop{
+	margin-top: 15px;
+}
+
+.r-new-to-internshop p{
+	font-size: 14px;
+	text-align: center;
+	color: #495057;
+	font-weight: 600;
+}
+
+.r-new-to-internshop a{
+	color: #008BDC;
+}
+
+.register-text{
+	text-align: center;
+	color: #008BDC;
+}

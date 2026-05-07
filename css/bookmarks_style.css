@@ -1,0 +1,173 @@
+*{
+    padding: 0px; 
+    margin: 0px;
+}
+
+body{
+    background: #FFF;
+}
+
+.internship-post-container{
+    //border: 2px solid red;
+    color: #484848;
+    font-family: Arial;
+    padding: 20px;
+}
+
+.dashboard-titels{
+    //border: 2px solid red;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.dashboard-img{
+    //border: 2px solid red;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.internship-post-container h2{
+    text-align: center;
+    padding: 10px;
+    font-size: 22px;
+} 
+
+
+.post-container{
+    margin: auto;
+    margin-bottom: 20px;
+    border: 1px solid #EEE;
+    border-radius: 6px;
+    padding: 23px;
+    background: #fff;
+    width: 65%;
+}
+
+.post-container .company-name{
+    font-weight: bold;
+    color: #8A8A8A;
+}
+
+.post-container li{
+    border: 2px solid red;
+    display: inline-block;
+    color: #8A8A8A;
+    font-weight: bold;
+    padding: 0 90 0 0;
+    font-size: 14px;
+    //width: 60px;
+}
+
+.post-container .li2{
+    border: 2px solid red;
+    display: inline-block;
+    color: #484848;
+    font-weight: bold;
+    padding: 0 100 0 0;
+    font-size: 15px;
+}
+
+.hr{
+    border-top: 1px solid #ddd;
+    margin-top: 2%;
+}
+
+.view-details{
+    background: #008BDC;
+    border: 1px solid #008BDC;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: bold;
+    min-width: 80px;
+    padding: 5px 5px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.view-details a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.view-details:hover{
+    background-color: #0069d9
+}
+
+.loc-logo{
+    width: 15px;
+}
+
+.logo-name{
+    //border: 2px solid red;
+    display: inline-block;
+    font-size: 15px;
+}
+
+.titles{
+    //border: 2px solid red;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #8A8A8A;
+}
+
+.titles div{
+    //border: 2px solid green;
+    width: 130px;
+    display: inline-block;
+    
+}
+
+.titles-content{
+    //border: 2px solid red;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #484848;
+}
+
+.titles-content div{
+    //border: 2px solid green;
+    width: 130px;
+    display: inline-block;
+}
+
+.bookmark{
+    background: #fff;
+    border: 1px solid #008BDC;
+    color: #008BDC;
+    border-radius: 5px;
+    font-weight: bold;
+    min-width: 80px;
+    padding: 5px 5px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.book-btn{
+	background-color: #008BDC;
+    border: 1px solid #008BDC;
+    color: #fff;
+    border-radius: 3px;
+    padding: 6 5 6 5;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    height: 40px;
+}
+
+.company-img{
+    //border: 1px solid #ddd;
+    width: 70px;
+    height: 70px;
+    float: right;
+    margin-top: -50px;
+}
+
+.img-logo{
+    //border: 2px solid red;
+    width: 70px;
+    height: 70px;
+}
+

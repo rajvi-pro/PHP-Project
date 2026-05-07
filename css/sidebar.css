@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f6f9;
+}
+
+/* ========= SIDEBAR ========= */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 100vh;
+    background: #003499;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-header {
+    text-align: center;
+    padding: 25px 10px;
+}
+
+.sidebar-header h2 {
+    margin: 10px 0;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.sidebar-menu {
+    list-style: none;
+    padding: 0;
+    margin-top: 15px;
+}
+
+.sidebar-menu li {
+    width: 100%;
+}
+
+.sidebar-menu a {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 15px 22px;
+    font-size: 16px;
+    color: #ffffff;
+    text-decoration: none;
+    transition: 0.25s;
+}
+
+.sidebar-menu a:hover,
+.sidebar-menu a.active {
+    background: #005ce6;
+    padding-left: 30px;
+}
+
+/* ========= TOP NAV ========= */
+.topnav {
+    margin-left: 230px;
+    background: white;
+    padding: 15px 20px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid #8bd5f7;
+}
+
+.container {
+    margin-left: 230px;
+    padding: 30px;
+}
+
+/* ========= TABLE + BUTTONS ========= */
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+    margin-bottom: 30px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+table th {
+    background: #005ce6;
+    color: white;
+    padding: 12px;
+}
+
+table td {
+    padding: 12px;
+}
+
+tr:nth-child(even) { background: #eef5ff; }
+
+.btn {
+    padding: 8px 14px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    color: white;
+}
+
+.btn-block { background: #ff4d4d; }
+.btn-block:hover { background: #d63333; }
+
+.btn-unblock { background: #28a745; }
+.btn-unblock:hover { background: #208838; }
+
+.btn-delete { background: #6c757d; }
+.btn-delete:hover { background: #575f67; }

@@ -1,0 +1,86 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.resume-container{
+    font-family: Arial;
+    padding: 10px 20px;
+    //border: 2px solid red;
+
+}
+
+h2{
+    text-align: center;
+    color: #484848;
+    margin-bottom: 10px;
+}
+
+.profile-message1{
+    margin: auto;
+    width: 60%;
+    padding: 5px;
+    background: #FFFAEB;
+    border: 1px solid #FFEF85;
+    color: #945E12;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 20%;
+}
+
+.choose-file-btn{
+    
+}
+
+.resume-upload-btn{
+    float: left;
+    background-color: #008BDC;
+    border: 1px solid #008BDC;
+    color: #fff;
+    border-radius: 3px;
+    padding: 6 5 6 5;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    height: 40px;
+
+}
+
+.resume-upload-btn:hover{
+    transition: all 0.7s ease 0s;
+    background-color: #0069d9;
+    cursor: pointer;
+}
+
+.btn1{
+    //border: 2px solid red;
+    width: 200px;
+    float: left;
+}
+
+.btn2{
+    //border: 2px solid red;
+    width: 100px;
+    float: right;
+}
+
+.resume-div{
+    border: 1px solid #ddd;
+    //border: 2px solid red;
+    margin: auto;
+    width: 75%;
+    margin-top: 10px;
+    margin-left: 20%;
+    padding: 5px;
+	text-align: center;
+	font-weight: bold;
+	color: #484848;
+}
+
+.resume-file{
+    //border: 2px solid green;
+    //margin-top: -95px;
+}
+
+

@@ -1,0 +1,121 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.dash-container{
+    padding: 20px;
+    font-family: Arial;
+}
+
+.dash-facing-issue{
+    margin: auto;
+    width: 50%;
+    padding: 8 10px;
+    background: #FFFAEB;
+    border: 1px solid #FFEF85;
+    color: #945E12;
+}
+
+.dash-facing-issue h3{
+    font-size: 15px;
+}
+
+.dash-facing-issue ol{
+    margin-left: 30px;
+    margin-top: 5px;
+    line-height: 1.6;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.dash-content{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    //border: 2px solid red;
+}
+
+.dash-content p{
+    text-align: center;
+    color: #333;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.dash-content img{
+    padding: 20px;
+    margin-left: 34%;
+    //border: 2px solid red;
+}
+
+.company-img{
+    border: 1px solid #ddd;
+    width: 70px;
+    height: 70px;
+    float: right;
+    margin-top: -50px;
+}
+
+.img{
+    //border: 2px solid red;
+    width: 70px;
+    height: 70px;
+}
+
+.err-img{
+    margin: auto;
+    margin-left: 40%;
+    width: 20%;
+    padding: 10px;
+}
+
+.dashboard-table{
+    border: 1px solid #ddd;
+    margin: auto;
+    width: 90%;
+    margin-top: 20px;
+}
+
+table th td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    //border: 2px solid green;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.table-head{
+    background: #8bd5f7;
+    //border: 1px solid red;
+    height: 30px;
+}
+
+.table-data{
+    //border: 1px solid red;
+    height: 50px;
+}
+
+table td{
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.p-data{
+    text-align: left;
+    padding-left: 20px;
+}
+
+.th-msg{
+    width: 35%;
+}
+
+.btnAction{
+    text-align: center;
+    width: 35px;
+    height: 35px;
+}

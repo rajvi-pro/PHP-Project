@@ -1,0 +1,128 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.application-container{
+    //border: 2px solid red;
+    padding: 20px;
+    font-family: Arial;
+}
+
+.application-table{
+    border: 1px solid #ddd;
+    margin: auto;
+    width: 80%;
+    margin-top: 20px;
+}
+
+table{
+    //border: 2px solid green;
+    width: 100%;
+    color: #484848;
+}
+
+.table-head{
+    background: #ddd;
+    border: 1px solid red;
+    height: 30px;
+}
+
+.table-data{
+    border: 1px solid red;
+    height: 60px;
+}
+
+.table-head th{
+    //border: 2px solid black;
+    //width: 35%;
+}
+
+table td{
+    text-align: center;
+    font-weight: bold;
+}
+
+.dashboard-title{
+    //border: 2px solid red;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    color: #484848;
+}
+
+.p-data{
+    text-align: left;
+    padding-left: 20px;
+}
+
+.btnAction{
+    text-align: center;
+    width: 40px;
+    height: 40px;
+}
+
+input[name="rbAction"]{
+    margin-top: 10px;
+}
+
+.filter{
+    //border: 2px solid red;
+    margin: auto;
+    width: 80%;
+    margin-top: 10px;
+}
+
+.filter-header{
+    border: 1px solid #484848;
+    width: 24.3%;
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.allbtn{
+    color: #484848;
+    width: 100%;
+    padding: 8px;
+    font-weight: bold;
+    font-family: Arial;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.btn1{
+    background-color: #99ebff;
+    border: 1px solid #99ebff;
+}
+
+.btn1:hover{
+    background-color: #00cccc;
+}
+
+.btn2{
+    background-color: #ffff80;
+    border: 1px solid #ffff80;
+}
+
+.btn2:hover{
+    background-color: #e6e600;
+}
+
+.btn3{
+    background-color: #80ff80;
+    border: 1px solid #80ff80;
+}
+
+.btn3:hover{
+    background-color: #00cc00;
+}
+
+.btn4{
+    background-color: #ffb3b3;
+    border: 1px solid #ffb3b3;
+}
+
+.btn4:hover{
+    background-color: #ff6666;
+}

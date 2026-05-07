@@ -1,0 +1,126 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.reg-emp-content{
+	//position: absolute;
+	padding-top: 20px;
+	padding-left: 60px;
+	//border: 2px solid red;
+}
+
+.reg-emp-content h1{
+	font-size: 45px;
+	font-family: sans-serif;
+	font-weight: 800;
+	letter-spacing: -1px;
+    color: #212121;
+}
+
+.reg-emp-content i{
+	color: blue;
+	font-weight: 800;
+}
+
+.reg-emp-content h2{
+	font-size: 25px;
+	font-family: sans-serif;
+	font-weight: 600;
+    color: #212121;
+}
+
+.reg-emp-background{
+	margin-top: 20px;
+}
+
+.emp-reg-style{
+	float: right;
+	border: 2px solid red;
+    margin-right: 70px;
+	margin-top: -90px;
+	width: 350px;
+	background: #fff;
+    border: 1px solid #DDD;
+    border-radius: 6px;
+    padding: 24px;
+	font-family: sans-serif;
+	box-shadow: 0px 0px 10px rgba(0, 204, 255, 0.5);
+}
+
+.emp-reg-style a{
+	text-decoration: none;
+}
+
+.emp-r-label{
+	margin-top: 5px;
+	//border: 2px solid red;
+	font-family: sans-serif;
+	font-size: 14px;
+	font-weight: 550;
+	color: #484848;
+}
+
+.emp-reg-input{
+	display: inlie-block;
+	margin-top: 10px;
+	width: 350px;
+	height: 38px;
+	border-radius: 3px;
+    border: 1px solid #ddd;
+	padding-left: 20px;
+	font-size: 15px;
+	color: #495057;
+}
+
+.emp-r-input{
+	margin-top: 10px;
+}
+
+.emp-ter-con{
+	margin-top: 20px;
+}
+
+.emp-ter-con p{
+	font-size: 13px;
+	color: #484848;
+}
+
+.emp-ter-con a{
+	font-family: sans-serif;
+	font-size: 13px;
+	color: #008BDC;
+	font-weight: 550;
+}
+
+.emp-reg-sub-btn{
+	margin-top: 2px;
+	width: 350px;
+	height: 45px;
+	border-radius: 3px;
+    border: 1px solid #ddd;
+	font-size: 15px;
+	font-weight: 550;
+	color: #fff;
+	background: #008BDC;
+	cursor: pointer;
+}
+
+.emp-reg-sub-btn-hover input:hover{
+	background: #005c99;
+}
+
+.emp-new-to-internshop{
+	margin-top: 15px;
+}
+
+.emp-new-to-internshop p{
+	font-size: 14px;
+	text-align: center;
+	color: #495057;
+	font-weight: 600;
+}
+
+.emp-new-to-internshop a{
+	color: #008BDC;
+}

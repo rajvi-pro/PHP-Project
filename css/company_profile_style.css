@@ -1,0 +1,151 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.company-pro-container{
+    font-family: Arial;
+    padding: 13px;
+    height: 100%;
+}
+
+.title{
+    text-align: center;
+    color: #484848;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    //border: 2px solid red;
+    width: 30%;
+}
+
+.company-container{
+    border: 1px solid #ddd;
+    margin: auto;
+    margin-top: 15px;
+    width: 65%;
+    padding: 20px;
+    border-radius: 5px;
+    height: 430px;
+}
+
+.company-label{
+    margin-top: 5px;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 550;
+    color: #484848;
+}
+
+.company-input{
+    width: 250px;
+    height: 38px;
+    border-radius: 3px;
+    border: 1px solid #ddd;
+    padding-left: 20px;
+    font-size: 15px;
+    color: #495057;
+}
+
+.company-input:hover{
+    border: 1px solid #008BDC;
+}
+
+.company-textarea{
+    width: 560px;
+    height: 150px;
+    border-radius: 3px;
+    border: 1px solid #ddd;
+    padding-left: 10px;
+    padding-top: 5px;
+    font-size: 15px;
+    color: #495057;
+    margin-top: 5px;
+}
+
+.border1{
+    //border: 1px solid red;
+    margin-bottom: 10px;
+    width: 35%;
+    line-height: 30px;
+    float: left;
+    margin-left: 5%;
+}
+
+.border2{
+    //border: 1px solid red;
+    margin-bottom: 10px;
+    width: 34%;
+    line-height: 30px;
+    float: right;
+}
+
+.border3{
+    //border: 1px solid red;
+    width: 60%;
+    margin-left: 30%;
+}
+
+.dp-form-div{
+    //border: 2px solid green;
+    width: 25%;
+    height: 50px;
+    //clear: both;
+}
+
+.btn-dp{
+    margin-top: -170px;
+    background: #008BDC;
+    border: 1px solid #008BDC;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: bold;
+    min-width: 80px;
+    padding: 5px 5px;
+    font-size: 15px;
+    cursor: pointer;
+    height: 40px;
+}
+
+.edit-btn{
+    margin: auto;
+    width: 20%;
+    margin-top: 5px;
+    margin-left: 460px;
+    //border: 2px solid red;
+    text-align: center;
+}
+
+.edit{
+    margin-top: 2px;
+    //margin-right: 5px;
+    background: #008BDC;
+    border: 1px solid #008BDC;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: bold;
+    min-width: 80px;
+    padding: 5px 5px;
+    font-size: 15px;
+    cursor: pointer;
+    height: 40px;
+}
+
+.dp-div{
+    //border: 1px solid #ddd;
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+
+.dp-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 10%;
+    border: 5px solid #008BDC;
+}
+
+.choose-btn{
+    //border: 2px solid red;
+    margin-top: -200px;
+}

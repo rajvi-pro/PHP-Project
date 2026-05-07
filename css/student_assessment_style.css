@@ -1,0 +1,134 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.stu-assess-container{
+    //border:2px solid red;
+    padding: 10 40px;
+    font-family: Arial;
+    color: #484848;
+}
+
+.comp-name{
+    //border: 2px solid red;
+    margin: auto;
+    padding: 20px 0px;
+    width: 70%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: ;
+    border-bottom: 1px solid #ddd;
+    color: #484848;
+    margin-bottom: 20px;
+}
+
+.cover-letter-container{
+    //border: 2px solid red;
+    margin: auto;
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+.title{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.cover-letter-question{
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 7px;
+}
+
+.cover-letter-tips{
+    background: #EAFCFF;
+    border: 1px solid #8FEAFE;
+    color: #006BC2;
+    padding: 15px;
+    border-radius: 5px;
+    //font-weight: bold;
+}
+
+.cover-letter-tips-content{
+    font-size: 14px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.tips-content{
+    border-top: 1px solid #8FEAFE;
+    padding: 20px;
+}
+
+.tips-content ul li{ 
+    color: #000;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.cover-letter-textarea{
+    margin: auto;
+    padding: 20px 0px;
+    width: 70%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: ;
+    color: #484848;
+    margin-bottom: 20px;
+}
+
+.cover-letter-textarea textarea{
+    width: 100%;
+    height: 180px;
+}
+
+.cover-letter-textarea textarea:hover{
+    border: 1px solid #8FEAFE;
+}
+
+.assessment-container{
+    //border: 2px solid red;
+    margin: auto;
+    width: 70%;
+    margin-bottom: 20px;
+}
+.assess-question{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.assess-textarea textarea{
+    width: 100%;
+    height: 150px;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.assess-textarea textarea:hover{
+    border: 1px solid #8FEAFE;
+}
+
+.stu-assess-sub-btn{
+    //border: 2px solid red;
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+
+.stu-assess-sub-btn input{
+    background: #00A5EC;
+    border-radius: 4px;
+    border: 1px solid #00A5EC;
+    color: #fff;
+    padding: 11px 31px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.assess-content{
+    margin-top: 30px;
+}
