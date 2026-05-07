@@ -159,10 +159,8 @@ chmod 755 uploads/
 2. Use admin credentials
 3. Access admin dashboard
 
-### Common URLs
-- **Home**: `http://localhost/Internship-Management-System/index.php`
-- **Student Register**: `http://localhost/Internship-Management-System/student_register.php`
-- **Student Login**: `http://localhost/Internship-Management-System/student_login.php`
-- **Student Dashboard**: `http://localhost/Internship-Management-System/student_dashboard.php`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1789326b-a90e-4b28-98ab-0aa3955e66e0" />
+
+
 
 ## 📁 Project Structure
