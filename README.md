@@ -156,8 +156,9 @@ chmod 755 uploads/
 
 ### Admin Login
 1. Go to admin login page
-2. Use admin credentials
-3. Access admin dashboard
+2. Username : admin Password : admin123
+3. Use admin credentials
+4. Access admin dashboard
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1789326b-a90e-4b28-98ab-0aa3955e66e0" />
 
